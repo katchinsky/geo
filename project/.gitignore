@@ -1,8 +1,0 @@
-*.geojson
-.DS_Store
-cache/*
-*.png
-../.DS_Store
-../*.png
-catboost_info/*
-*.sqlite
