@@ -36,3 +36,4 @@ pyarrow
 adlfs
 requests_cache
 h3
+exactextract
