@@ -17,7 +17,6 @@ scikit-learn
 lightgbm
 overpy
 pyproj>=3.2
-# proj>=8.2
 pygeohash
 rasterio
 requests
@@ -37,3 +36,4 @@ adlfs
 requests_cache
 h3
 exactextract
+datasets

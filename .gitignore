@@ -6,3 +6,6 @@ cache/*
 ../*.png
 catboost_info/*
 *.sqlite
+.cache/*
+__pycache__/*
+geopython_env/*
